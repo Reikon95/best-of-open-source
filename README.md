@@ -7,3 +7,4 @@ You can follow me on tiktok [here](https://tiktok.com/@cameronblackwoodcode)
 # Repos
 
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Resources for you to replicate popular startups, toolsets and more.
+- [Open SaaS](https://github.com/wasp-lang/open-saas) | A full SaaS boilerplate implemented in Wasp, a Rails-like framework for Javascript.

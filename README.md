@@ -12,3 +12,4 @@ You can follow me on tiktok [here](https://tiktok.com/@cameronblackwoodcode)
 - [Open SaaS](https://github.com/wasp-lang/open-saas) | A full SaaS boilerplate implemented in Wasp, a Rails-like framework for Javascript.
 - [React-Three-Fiber](https://github.com/pmndrs/react-three-fiber) | A React renderer for Three.js, allows you to create amazing 3d experiences using React.
 - [Supabase](https://github.com/supabase/supabase) | A powerful backend as a service with a generous free tier if hosted by them, and free to self host
+- [Wasp](https://github.com/wasp-lang/wasp) | Full stack Javascript/Typescript framework, great for creating SaaS apps

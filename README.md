@@ -1,8 +1,6 @@
 
-# This repo features the coolest open source projects I mention in TikTok videos.
+# This repo features the coolest open source projects I mention in TikTok and YouTube videos.
 You can follow me on tiktok [here](https://tiktok.com/@cameronblackwoodcode)
-
-
 
 # Full Products 
 Open source products that are commercially successful.
@@ -17,7 +15,9 @@ Tools ranging from databases, IDEs, CMS and more
 - [Zed](https://github.com/zed-industries/zed) | Code editor implemented in Rust
 - [Zenblog](https://github.com/jordienr/zenblog) | Notion-like CMS
 - [Plunk](https://github.com/useplunk/plunk) | Simple email solution for SaaS apps
-
+- [Astro](https://github.com/withastro/astro) | Web framework for content driven websites with "islands" architechture for different frameworks
+- [Create t3 App](https://github.com/t3-oss/create-t3-app) | Starter for full stack, typesafe nextjs apps
+  
 # Boiler Plates
 - [Open SaaS](https://github.com/wasp-lang/open-saas) | A full SaaS boilerplate implemented in Wasp, a Rails-like framework for Javascript.
 - [Roke](https://github.com/wardbox/roke) | Wasp boilerplate
@@ -29,6 +29,7 @@ Tools ranging from databases, IDEs, CMS and more
 # Libraries (General)
 - [Remotion](https://github.com/remotion-dev/remotion) | React library for creating videos using Javascript.
 - [React-Three-Fiber](https://github.com/pmndrs/react-three-fiber) | A React renderer for Three.js, allows you to create amazing 3d experiences using React.
+
 
 # Careers
 - [Free Cyber Security Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) | Resources for cyber security

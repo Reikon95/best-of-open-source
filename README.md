@@ -14,15 +14,15 @@ Tools ranging from databases, IDEs, CMS and more
 - [Supabase](https://github.com/supabase/supabase) | A powerful backend as a service with a generous free tier if hosted by them, and free to self host
 - [Wasp](https://github.com/wasp-lang/wasp) | Full stack Javascript/Typescript framework, great for creating SaaS apps
 - [Zed](https://github.com/zed-industries/zed) | Code editor implemented in Rust
-- [Zenblog](https://github.com/jordienr/zenblog) | Notion-like CMS
-- [Plunk](https://github.com/useplunk/plunk) | Simple email solution for SaaS apps
+- [Zenblog](https://github.com/jordienr/zenblog) | Notion-like CMS that's super easy to integrate into any modern web app
+- [Plunk](https://github.com/useplunk/plunk) | Simple email solution for SaaS apps 
 - [Astro](https://github.com/withastro/astro) | Web framework for content driven websites with "islands" architechture for different frameworks
 - [Create t3 App](https://github.com/t3-oss/create-t3-app) | Starter for full stack, typesafe nextjs apps
   
 # Boiler Plates
 - [Open SaaS](https://github.com/wasp-lang/open-saas) | A full SaaS boilerplate implemented in Wasp, a Rails-like framework for Javascript.
 - [Roke](https://github.com/wardbox/roke) | Wasp boilerplate
-- 
+  
 
 # UI Libraries
 - [Retro UI](https://retroui.dev/) | Neobrutalist UI library
